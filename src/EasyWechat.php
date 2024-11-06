@@ -12,7 +12,7 @@ declare(strict_types=1);
 
 namespace Pengxuxu\HyperfWechat;
 
-use Hyperf\Utils\ApplicationContext;
+use Hyperf\Context\ApplicationContext;
 
 /**
  * Class EasyWechat
