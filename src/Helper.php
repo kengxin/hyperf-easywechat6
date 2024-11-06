@@ -12,7 +12,7 @@ declare(strict_types=1);
 
 namespace Pengxuxu\HyperfWechat;
 
-use Hyperf\Utils\ApplicationContext;
+use Hyperf\Context\ApplicationContext;
 use Hyperf\HttpMessage\Stream\SwooleStream;
 use Psr\Http\Message\ResponseInterface;
 use Hyperf\HttpServer\Contract\ResponseInterface as PsrResponseInterface;
